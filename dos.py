@@ -1,0 +1,1 @@
+print("PONEME UN 10 PROFE")
