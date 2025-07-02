@@ -1,2 +1,5 @@
-# 2025-first-project-mateyi
-2025-first-project-mateyi created by GitHub Classroom
+Información del Alumno
+
+    Mateo Gimenez
+    Curso: 5to Año
+    Especialidad: Informática
